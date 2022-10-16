@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Self Description
+
+Makes three components and add one button for each component
+and do some functions when the button clicks
+do more things in html and use css for make them more stylish
+use bootstrap for make the page responsive.
